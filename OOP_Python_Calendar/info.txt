@@ -1,6 +1,6 @@
-Instrukcja obsługi:
+User manual:
 
-1. aby dodać wydarzenie używamy "add new event"
-2. Mamy możliwość wyświetlenia naszych wydarzeń lub export do formatu iCal
-3. Formaty dat i godzin są pokazane przy polu tekstowym podczas wpisywania danych
+1. in odrer to add new event, choose "add new event"
+2. Ability iCal to create ical format
+3. datetime format is shown during the input phase
 
