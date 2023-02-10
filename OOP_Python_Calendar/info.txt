@@ -1,0 +1,6 @@
+Instrukcja obsługi:
+
+1. aby dodać wydarzenie używamy "add new event"
+2. Mamy możliwość wyświetlenia naszych wydarzeń lub export do formatu iCal
+3. Formaty dat i godzin są pokazane przy polu tekstowym podczas wpisywania danych
+
